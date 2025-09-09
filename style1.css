@@ -1,11 +1,2 @@
-hi {
-    color :  rgb(26, 22, 34)
-    text-align: center;
-    te
-}
-
-#page-container {
-    width: 760px;
-    margin: auto;
-    background: blue;
+ #page-container { width: 760px; margin: auto; background: red;
 }
