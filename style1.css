@@ -1,5 +1,13 @@
-h1 {
-color: red;
-text-align : left;
-font-size: 8pt
-}
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(241, 9, 9);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }    m,m,l
