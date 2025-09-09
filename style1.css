@@ -1,13 +1,11 @@
-body {
-    background-color: lightblue;
-  }
-  
-  h1 {
-    color: rgb(241, 9, 9);
+hi {
+    color :  rgb(26, 22, 34)
     text-align: center;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }    m,m,l
+    te
+}
+
+#page-container {
+    width: 760px;
+    margin: auto;
+    background: blue;
+}
